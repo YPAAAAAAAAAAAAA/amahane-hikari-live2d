@@ -1,0 +1,20 @@
+{
+  "id": "amahane-hikari-live2d",
+  "title": {
+    "en": "Amahane-Hikari-Live2D",
+    "zh": "天羽光·二维角色"
+  },
+  "intro": {
+    "en": "A little starlight: an original animated 2D character. Drag to guide her gaze, tap for a smile, and open the star for expressions.",
+    "zh": "一点星光：原创二维动态角色。拖动引导视线，轻触收获微笑，打开星形按钮切换表情。"
+  },
+  "officialFiles": [
+    "vendor/LICENSE.txt",
+    "vendor/character.css",
+    "vendor/character.js",
+    "vendor/index.html"
+  ],
+  "playHtml": "play.html",
+  "aspect": "phone",
+  "githubRepo": "ypaaaaaaaaaaaaa/amahane-hikari-live2d"
+}
